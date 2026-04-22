@@ -24,9 +24,9 @@ Aqui estão alguns dos utilitários já disponíveis neste repositório:
 Um utilitário simples que extrai as informações da flag `--help` e as páginas do `man` de qualquer comando do sistema, unificando-as em um único arquivo de texto de fácil leitura. Ideal para consultas rápidas fora do terminal ou para arquivamento de documentação.
 
 **Como usar:**
-./info.sh
-O prompt pedirá o nome do comando (ex: grep)
-A saída será salva automaticamente em um arquivo grep.txt
+* ./info.sh
+* O prompt pedirá o nome do comando (ex: grep)
+* A saída será salva automaticamente em um arquivo grep.txt
 
 *(Mais scripts serão adicionados conforme os estudos e necessidades avançam).*
 
