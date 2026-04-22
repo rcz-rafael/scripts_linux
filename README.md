@@ -25,8 +25,8 @@ Um utilitário simples que extrai as informações da flag `--help` e as página
 
 **Como usar:**
 ./info.sh
-# O prompt pedirá o nome do comando (ex: grep)
-# A saída será salva automaticamente em um arquivo grep.txt
+O prompt pedirá o nome do comando (ex: grep)
+A saída será salva automaticamente em um arquivo grep.txt
 
 *(Mais scripts serão adicionados conforme os estudos e necessidades avançam).*
 
