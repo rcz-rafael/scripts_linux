@@ -43,14 +43,10 @@ cd NOME-DO-REPOSITORIO
 \`\`\`
 
 2. Dê permissão de execução ao script desejado:
-\`\`\`bash
 chmod +x info.sh
-\`\`\`
 
 3. Execute-o:
-\`\`\`bash
 ./info.sh
-\`\`\`
 
 ## Contribuições
 Sinta-se à vontade para explorar o código, sugerir melhorias na lógica dos scripts ou fazer um *fork* para adaptar as ferramentas ao seu próprio fluxo de trabalho no terminal.
