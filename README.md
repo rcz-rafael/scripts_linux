@@ -24,11 +24,9 @@ Aqui estão alguns dos utilitários já disponíveis neste repositório:
 Um utilitário simples que extrai as informações da flag `--help` e as páginas do `man` de qualquer comando do sistema, unificando-as em um único arquivo de texto de fácil leitura. Ideal para consultas rápidas fora do terminal ou para arquivamento de documentação.
 
 **Como usar:**
-\`\`\`bash
-./info.sh
-# O prompt pedirá o nome do comando (ex: grep)
-# A saída será salva automaticamente em um arquivo grep.txt
-\`\`\`
+* ./info.sh
+* O prompt pedirá o nome do comando (ex: grep)
+* A saída será salva automaticamente em um arquivo grep.txt
 
 *(Mais scripts serão adicionados conforme os estudos e necessidades avançam).*
 
@@ -37,20 +35,14 @@ Um utilitário simples que extrai as informações da flag `--help` e as página
 Para utilizar qualquer script deste repositório na sua máquina local, faça o clone do projeto e garanta que os arquivos tenham permissão de execução:
 
 1. Clone o repositório:
-\`\`\`bash
 git clone https://github.com/rcz-rafael/scripts_linux.git
 cd NOME-DO-REPOSITORIO
-\`\`\`
 
 2. Dê permissão de execução ao script desejado:
-\`\`\`bash
 chmod +x info.sh
-\`\`\`
 
 3. Execute-o:
-\`\`\`bash
 ./info.sh
-\`\`\`
 
 ## Contribuições
 Sinta-se à vontade para explorar o código, sugerir melhorias na lógica dos scripts ou fazer um *fork* para adaptar as ferramentas ao seu próprio fluxo de trabalho no terminal.
